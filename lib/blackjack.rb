@@ -50,7 +50,7 @@ end
 #####################################################
 
 def runner
-  sum = 0
+  #sum = 0
   welcome
   initial_round
   until sum > 21

@@ -51,6 +51,9 @@ end
 
 def runner
   welcome 
-  initial_round 
+  initial_round
+  while x < 21
+    
+  end
 end
     

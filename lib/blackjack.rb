@@ -51,7 +51,6 @@ end
 
 def runner
   welcome
-  initial_round
   sum = initial_round
   until sum > 21
     hit?(sum)
